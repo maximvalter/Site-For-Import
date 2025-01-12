@@ -1,0 +1,7 @@
+tmp/
+*.png_backup
+*.html_old
+*_old
+*_backup
+Thumbs.db
+.DS_Store
